@@ -6,6 +6,9 @@
 <h3 align="left">▶ Connect with me:</h3>
   <p>
     <a href="https://www.linkedin.com/in/jnramirezlorca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jnramirezlorca/)](https://www.linkedin.com/in/jnramirezlorca/"></a>
+<a href="https://jnramirez.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-222222?style=flat-square&logo=unitedairlines&logoColor=white&link=https://jnramirez.netlify.app/)](https://jnramirez.netlify.app/"></a>
+
+    
   </p>
 
 <h3 align="left">▶ Languages and Technologies:</h3>
