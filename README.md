@@ -1,5 +1,21 @@
 ## 🧐 About
 
+## 🧐 About
+
+<h3 align="center">Developer 😄</h3>
+
+# ¡Hola! 👋 Soy Nahuel
+
+> Desarrollador full stack de Argentina
+
+### 🚀 Mi Enfoque
+
+Si bien entiendo que el camino del desarrollador es largo y siempre hay algo nuevo que aprender, mi compromiso es firme. Estoy enfocado en:
+
+* **Mejora Continua:** Perfeccionar mis habilidades en MongoDB, Java y Python.
+* **Aportar Valor:** Aplicar mis conocimientos en UX/UI y automatización para crear soluciones eficientes y centradas en el usuario.
+* **Nuevos Desafíos:** ¡Siempre estoy abierto a aprender y colaborar!
+
 <h3 align="center">A Full Stack Developer 😄
 </h3>
 
