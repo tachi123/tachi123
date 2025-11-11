@@ -1,7 +1,5 @@
 ## 🧐 About
 
-## 🧐 About
-
 <h3 align="center">Developer 😄</h3>
 
 # ¡Hola! 👋 Soy Nahuel
